@@ -1,5 +1,6 @@
-## Hi there 👋
-
+---
+## Hi there 👋, my name is Jorge and i'm working as an artifical intelligence researcher 🤖
+---
 <!--
 **jgonzalez-air/jgonzalez-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
